@@ -1,0 +1,8 @@
+echo '{
+  "domain": "battery_optimizer",
+  "name": "Battery Optimizer",
+  "version": "1.0.0",
+  "requirements": ["scikit-learn"],
+  "dependencies": [],
+  "codeowners": ["@hirofairlane"]
+}' > manifest.json
